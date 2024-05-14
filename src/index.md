@@ -1,10 +1,10 @@
 ---
 layout: "index"
 title: "Home"
-description: "Introduction to the new website"
+description: "Introduction to My Daily Guide"
 ---
 ![hero image](assets/images/coffee.png)
 
-# My Template for Eleventy Sites
+# My Daily Guide
 
 Template made with [Eleventy](https://www.11ty.io/)
