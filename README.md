@@ -1,2 +1,2 @@
-# MCEA-Eleventy
-Website for MCEA built using static website generator Eleventy
+# My Daily Guide
+Web app for Daily Guide - built using static website generator Eleventy
